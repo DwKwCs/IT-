@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Quick Links
-- 📄 **자기소개서(PDF)**: [`./자기소개서.pdf`](./자소서``ver.5.pdf)  
+- 📄 **자기소개서(PDF)**: [`./자기소개서.pdf`](https://github.com/DwKwCs/IT-Cover-Letter-and-Portfolio/blob/main/%EC%9E%90%EC%86%8C%EC%84%9C%20ver.5.pdf)  
 - 🗂️ **포트폴리오(PDF)**: [`./포트폴리오.pdf`](./포트폴리오``ver.4.pdf)  
 - 📨 **연락처**: [kwcs_go670@naver.com](mailto:kwcs_go670@naver.com)  
 - 🔗 **GitHub 프로필**: https://github.com/DwKwCs
