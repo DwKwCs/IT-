@@ -1,8 +1,8 @@
 # IT 산업기능요원 보충역 자소서 & 포트폴리오
 
-> **한눈에 보기**  
-> - **지원 트랙:** 백엔드
-> - **핵심 역량:** Node.js/Express·Spring Boot·MySQL. 팀 협업 경험.  
+**한눈에 보기**  
+- **지원 트랙:** 백엔드
+- **핵심 역량:** Node.js/Express·Spring Boot·MySQL. 팀 협업 경험.  
 
 ---
 
