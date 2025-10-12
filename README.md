@@ -37,15 +37,15 @@
 
 - **MyMedi (팀 프로젝트)**  
   - 건강 검진 결과 기반의 개인 맞춤형 건강 관리 플랫폼  
-  - 핵심: Spring Boot, REST API
+  - 기술: Spring Boot, REST API
  
 - **중고장터 (팀 프로젝트)**  
   - 중고장터 플랫폼  
-  - 핵심: Node.js/Express, REST API
+  - 기술: Node.js/Express, REST API
 
 - **Spring Boot 공부 (개인/1인 개발)**  
   - 이메일 인증·세션/보안, Redis 기반 인증코드  
-  - 핵심: REST API, 캐시 전략, 예외 처리/검증
+  - 기술: REST API, 캐시 전략, 예외 처리/검증
 
 ---
 
